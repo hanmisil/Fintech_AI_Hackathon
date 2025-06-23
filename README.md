@@ -9,20 +9,19 @@
 </p>
 
 
-* * *
+<br><br><br>
 
 
-## Table of Contents
+## 💡 Table of Contents
 
 - [Project Introduction](#Project-Introduction)
 - [Project Dependencies](#Project-Dependencies)
 - [Bugs and Feature Requests](#Bugs-and-Feature-Requests)
 - [About the Contributor](#About-the-Contributor)
 
+<br><br><br>
 
-## Project Introduction
-
-### 다음 달 소비 예측을 통한 카드 추천 및 통합 카드 APP 서비스
+## 🎯 다음 달 소비 예측을 통한 카드 추천 및 통합 카드 APP 서비스
 
 **프로젝트 목적**
 
@@ -34,27 +33,24 @@
 - 나의 소비에 따른 최적의 카드 혜택을 누리고 싶은 사람
 - 여러 장의 카드를 들고 다니는 것에 대해 불편함을 느끼는 사람
 
-## Project Dependencies
+<br><br><br>
 
-### OS
-- Windows10, macOS
+## 🛠 Tech Stack
 
-### AI
-- python v3.6.9, tensorflow v1.15.0, opencv v4.4.0, pytesseract
+- **AI 분석**: Python 3.6.9, Pandas, TensorFlow, Statsmodels
+- **OCR & Vision**: OpenCV 4.4.0, PyTesseract
+- **환경**: Google Colab
+- **기타**: scikit-learn, Matplotlib, GitHub
 
-### Front-end (추후 개발 예정)
-- react.js
+<br><br><br>
 
-### Back-end (추후 개발 예정)
-- Django
-
-
-## Bugs and Feature Requests
+## 🧩 Bugs and Feature Requests
 
 [**Please do requests here.**](https://github.com/alsrud9909/Fintech_AI_Hackathon/issues)
 
+<br><br><br>
 
-## About the Contributor
+## 👥 About the Contributor
 
 **Choi MinKyeong**
 - [**@alsrud9909**](https://github.com/alsrud9909)   
@@ -69,4 +65,4 @@
 - <dbtldm@ajou.ac.kr>
 
 
-* * *
+<br><br><br>
