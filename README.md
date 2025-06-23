@@ -11,16 +11,6 @@
 
 <br><br><br>
 
-
-## 💡 Table of Contents
-
-- [Project Introduction](#Project-Introduction)
-- [Project Dependencies](#Project-Dependencies)
-- [Bugs and Feature Requests](#Bugs-and-Feature-Requests)
-- [About the Contributor](#About-the-Contributor)
-
-<br><br><br>
-
 ## 🎯 다음 달 소비 예측을 통한 카드 추천 및 통합 카드 APP 서비스
 
 **프로젝트 목적**
